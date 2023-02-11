@@ -1,7 +1,7 @@
 {
-  "name": "IchNv Personal Blog",
-  "short_name": "IchNv Personal Blog",
-  "lang": "en-us",
+  "name": "Ichnv Blog",
+  "short_name": "Ichnv Blog",
+  "lang": "Vn",
   "display": "fullscreen",
   "orientation" : "portrait",
   "start_url": "https://ichnv.github.io/?utm_source=web_app_manifest",

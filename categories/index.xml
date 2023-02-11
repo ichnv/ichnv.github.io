@@ -1,81 +1,27 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on IchNv Personal Blog</title>
+    <title>Categories on Ichnv Blog</title>
     <link>https://ichnv.github.io/categories/</link>
-    <description>Recent content in Categories on IchNv Personal Blog</description>
+    <description>Recent content in Categories on Ichnv Blog</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
+    <language>Vn</language>
     <lastBuildDate>Sun, 24 Jan 2021 18:19:25 +0600</lastBuildDate><atom:link href="https://ichnv.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>artificial intelligence</title>
-      <link>https://ichnv.github.io/categories/artificial-intelligence/</link>
+      <title>câu nói hay</title>
+      <link>https://ichnv.github.io/categories/c%C3%A2u-n%C3%B3i-hay/</link>
       <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
       
-      <guid>https://ichnv.github.io/categories/artificial-intelligence/</guid>
+      <guid>https://ichnv.github.io/categories/c%C3%A2u-n%C3%B3i-hay/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>assistant</title>
-      <link>https://ichnv.github.io/categories/assistant/</link>
+      <title>chuyện nghề</title>
+      <link>https://ichnv.github.io/categories/chuy%E1%BB%87n-ngh%E1%BB%81/</link>
       <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
       
-      <guid>https://ichnv.github.io/categories/assistant/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>drone</title>
-      <link>https://ichnv.github.io/categories/drone/</link>
-      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
-      
-      <guid>https://ichnv.github.io/categories/drone/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>github</title>
-      <link>https://ichnv.github.io/categories/github/</link>
-      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
-      
-      <guid>https://ichnv.github.io/categories/github/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>programming</title>
-      <link>https://ichnv.github.io/categories/programming/</link>
-      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
-      
-      <guid>https://ichnv.github.io/categories/programming/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>robotics</title>
-      <link>https://ichnv.github.io/categories/robotics/</link>
-      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
-      
-      <guid>https://ichnv.github.io/categories/robotics/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>workstation</title>
-      <link>https://ichnv.github.io/categories/workstation/</link>
-      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
-      
-      <guid>https://ichnv.github.io/categories/workstation/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>youtube</title>
-      <link>https://ichnv.github.io/categories/youtube/</link>
-      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
-      
-      <guid>https://ichnv.github.io/categories/youtube/</guid>
+      <guid>https://ichnv.github.io/categories/chuy%E1%BB%87n-ngh%E1%BB%81/</guid>
       <description></description>
     </item>
     
