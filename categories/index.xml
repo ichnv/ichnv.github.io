@@ -1,45 +1,81 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Categories on Chuyên Gia Life Coach</title>
+    <title>Categories on IchNv Personal Blog</title>
     <link>https://ichnv.github.io/categories/</link>
-    <description>Recent content in Categories on Chuyên Gia Life Coach</description>
+    <description>Recent content in Categories on IchNv Personal Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 15 Jun 2015 00:00:00 +0000</lastBuildDate><atom:link href="https://ichnv.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Jan 2021 18:19:25 +0600</lastBuildDate><atom:link href="https://ichnv.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>releases</title>
-      <link>https://ichnv.github.io/categories/releases/</link>
-      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
+      <title>artificial intelligence</title>
+      <link>https://ichnv.github.io/categories/artificial-intelligence/</link>
+      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
       
-      <guid>https://ichnv.github.io/categories/releases/</guid>
+      <guid>https://ichnv.github.io/categories/artificial-intelligence/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>tranquilpeak</title>
-      <link>https://ichnv.github.io/categories/tranquilpeak/</link>
-      <pubDate>Mon, 15 Jun 2015 00:00:00 +0000</pubDate>
+      <title>assistant</title>
+      <link>https://ichnv.github.io/categories/assistant/</link>
+      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
       
-      <guid>https://ichnv.github.io/categories/tranquilpeak/</guid>
+      <guid>https://ichnv.github.io/categories/assistant/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>showcase</title>
-      <link>https://ichnv.github.io/categories/showcase/</link>
-      <pubDate>Sun, 14 Jun 2015 00:00:00 +0000</pubDate>
+      <title>drone</title>
+      <link>https://ichnv.github.io/categories/drone/</link>
+      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
       
-      <guid>https://ichnv.github.io/categories/showcase/</guid>
+      <guid>https://ichnv.github.io/categories/drone/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>features</title>
-      <link>https://ichnv.github.io/categories/features/</link>
-      <pubDate>Thu, 28 May 2015 00:00:00 +0000</pubDate>
+      <title>github</title>
+      <link>https://ichnv.github.io/categories/github/</link>
+      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
       
-      <guid>https://ichnv.github.io/categories/features/</guid>
+      <guid>https://ichnv.github.io/categories/github/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>programming</title>
+      <link>https://ichnv.github.io/categories/programming/</link>
+      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
+      
+      <guid>https://ichnv.github.io/categories/programming/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>robotics</title>
+      <link>https://ichnv.github.io/categories/robotics/</link>
+      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
+      
+      <guid>https://ichnv.github.io/categories/robotics/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>workstation</title>
+      <link>https://ichnv.github.io/categories/workstation/</link>
+      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
+      
+      <guid>https://ichnv.github.io/categories/workstation/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>youtube</title>
+      <link>https://ichnv.github.io/categories/youtube/</link>
+      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
+      
+      <guid>https://ichnv.github.io/categories/youtube/</guid>
       <description></description>
     </item>
     

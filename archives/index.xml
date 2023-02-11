@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Archives on Chuyên Gia Life Coach</title>
-    <link>https://ichnv.github.io/archives/</link>
-    <description>Recent content in Archives on Chuyên Gia Life Coach</description>
+    <title>Archives on Geeky | Hugo Personal Blog Template</title>
+    <link>https://demo.statichunt.com/geeky-hugo/archives/</link>
+    <description>Recent content in Archives on Geeky | Hugo Personal Blog Template</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language><atom:link href="https://ichnv.github.io/archives/index.xml" rel="self" type="application/rss+xml" />
+    <language>en-us</language><atom:link href="https://demo.statichunt.com/geeky-hugo/archives/index.xml" rel="self" type="application/rss+xml" />
   </channel>
 </rss>
