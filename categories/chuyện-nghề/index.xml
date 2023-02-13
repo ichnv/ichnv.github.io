@@ -2,26 +2,26 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>chuyện nghề on Ichnv Blog</title>
-    <link>https://ichnv.github.io/categories/chuy%E1%BB%87n-ngh%E1%BB%81/</link>
+    <link>https://ichnv.com/categories/chuy%E1%BB%87n-ngh%E1%BB%81/</link>
     <description>Recent content in chuyện nghề on Ichnv Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>Vn</language>
-    <lastBuildDate>Sun, 24 Jan 2021 18:19:25 +0600</lastBuildDate><atom:link href="https://ichnv.github.io/categories/chuy%E1%BB%87n-ngh%E1%BB%81/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sun, 24 Jan 2021 18:19:25 +0600</lastBuildDate><atom:link href="https://ichnv.com/categories/chuy%E1%BB%87n-ngh%E1%BB%81/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Artificial Intelligence and Robotics In A Nutshell</title>
-      <link>https://ichnv.github.io/blog/post-1/</link>
+      <link>https://ichnv.com/blog/post-1/</link>
       <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
       
-      <guid>https://ichnv.github.io/blog/post-1/</guid>
+      <guid>https://ichnv.com/blog/post-1/</guid>
       <description>Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem Ut bibendum lacus vestibulum maximus suscipit, Quisque vitae nibh iaculis neque blandit euismod.</description>
     </item>
     
     <item>
       <title>Why you need to learn PHP</title>
-      <link>https://ichnv.github.io/blog/post-6/</link>
+      <link>https://ichnv.com/blog/post-6/</link>
       <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
       
-      <guid>https://ichnv.github.io/blog/post-6/</guid>
+      <guid>https://ichnv.com/blog/post-6/</guid>
       <description>Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.</description>
     </item>
     
