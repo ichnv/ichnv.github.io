@@ -1,12 +1,12 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Ichnv Blog</title>
-    <link>https://ichnv.com/blog/</link>
-    <description>Recent content in Blog on Ichnv Blog</description>
+    <title>Bí Mật Các Con Số on Ichnv Blog</title>
+    <link>https://ichnv.com/categories/b%C3%AD-m%E1%BA%ADt-c%C3%A1c-con-s%E1%BB%91/</link>
+    <description>Recent content in Bí Mật Các Con Số on Ichnv Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>Vn</language>
-    <lastBuildDate>Thu, 13 Jan 2022 19:19:25 +0700</lastBuildDate><atom:link href="https://ichnv.com/blog/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Thu, 13 Jan 2022 19:19:25 +0700</lastBuildDate><atom:link href="https://ichnv.com/categories/b%C3%AD-m%E1%BA%ADt-c%C3%A1c-con-s%E1%BB%91/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Những Điều Đặc Biệt Của Người Có Chỉ Số Đường Đời 8</title>
       <link>https://ichnv.com/blog/post-6/</link>
@@ -14,24 +14,6 @@
       
       <guid>https://ichnv.com/blog/post-6/</guid>
       <description>Con số 8 là con số của sự cần bằng giữa: Cho - nhận nên khi may mắn hay thu hút nhiều cơ hội sở hữu tiền bạc cần học cách chia sẻ, giúp đỡ, cho đi</description>
-    </item>
-    
-    <item>
-      <title>Artificial Intelligence and Robotics In A Nutshell</title>
-      <link>https://ichnv.com/blog/post-1/</link>
-      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
-      
-      <guid>https://ichnv.com/blog/post-1/</guid>
-      <description>Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem Ut bibendum lacus vestibulum maximus suscipit, Quisque vitae nibh iaculis neque blandit euismod.</description>
-    </item>
-    
-    <item>
-      <title>Drone Software and Development</title>
-      <link>https://ichnv.com/blog/post-8/</link>
-      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
-      
-      <guid>https://ichnv.com/blog/post-8/</guid>
-      <description>Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.</description>
     </item>
     
     <item>
@@ -68,15 +50,6 @@
       
       <guid>https://ichnv.com/blog/post-2/</guid>
       <description>Trong vũ trụ có lưỡng nghi âm dương, người ta gọi đó là các cặp phạm trù. Hoạt động thường ngày có ngày và đêm, có mặt trăng - mặt trời, có quan hệ vợ chồng, có giống đực giống cái.</description>
-    </item>
-    
-    <item>
-      <title>Robotic world is growing very fast</title>
-      <link>https://ichnv.com/blog/post-7/</link>
-      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
-      
-      <guid>https://ichnv.com/blog/post-7/</guid>
-      <description>Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.</description>
     </item>
     
   </channel>
