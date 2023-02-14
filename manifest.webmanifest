@@ -1,7 +1,7 @@
 {
   "name": "Ichnv Blog",
   "short_name": "Ichnv Blog",
-  "lang": "Vn",
+  "lang": "vi-VN",
   "display": "fullscreen",
   "orientation" : "portrait",
   "start_url": "https://ichnv.com/?utm_source=web_app_manifest",
