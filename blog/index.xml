@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
-    <title>Blog on Ichnv Blog</title>
+    <title>Blogs on Ichnv Blog</title>
     <link>https://ichnv.com/blog/</link>
-    <description>Recent content in Blog on Ichnv Blog</description>
+    <description>Recent content in Blogs on Ichnv Blog</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>vi-VN</language>
     <lastBuildDate>Thu, 13 Jan 2022 19:19:25 +0700</lastBuildDate><atom:link href="https://ichnv.com/blog/index.xml" rel="self" type="application/rss+xml" />
@@ -17,21 +17,13 @@
     </item>
     
     <item>
-      <title>Artificial Intelligence and Robotics In A Nutshell</title>
-      <link>https://ichnv.com/blog/post-1/</link>
+      <title>Bí Quyết “CHIỀU VỢ” Anh Chồng Nào Cũng Cần Đọc</title>
+      <link>https://ichnv.com/blog/post-7/</link>
       <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
       
-      <guid>https://ichnv.com/blog/post-1/</guid>
-      <description>Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem Ut bibendum lacus vestibulum maximus suscipit, Quisque vitae nibh iaculis neque blandit euismod.</description>
-    </item>
-    
-    <item>
-      <title>Drone Software and Development</title>
-      <link>https://ichnv.com/blog/post-8/</link>
-      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
-      
-      <guid>https://ichnv.com/blog/post-8/</guid>
-      <description>Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.</description>
+      <guid>https://ichnv.com/blog/post-7/</guid>
+      <description>Người ta có câu: &amp;ldquo;Phụ nữ chính là phong thủy trong nhà&amp;rdquo;
+Một gia đình hạnh phúc, yên bình, con cái có thể thành tài, có liên quan chặt chẽ đến việc người phụ nữ xử lý công việc trong gia đình và đối xử với chồng, với con như thế nào.</description>
     </item>
     
     <item>
@@ -71,12 +63,22 @@
     </item>
     
     <item>
-      <title>Robotic world is growing very fast</title>
-      <link>https://ichnv.com/blog/post-7/</link>
+      <title>Ngày Xưa Bố Mẹ Mệt Bao Nhiêu Cũng Đi Làm</title>
+      <link>https://ichnv.com/blog/post-1/</link>
       <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
       
-      <guid>https://ichnv.com/blog/post-7/</guid>
-      <description>Nam ut rutrum ex, venenatis sollicitudin urna. Aliquam erat volutpat. Integer eu ipsum sem. Ut bibendum lacus vestibulum maximus suscipit. Quisque vitae nibh iaculis neque blandit euismod.</description>
+      <guid>https://ichnv.com/blog/post-1/</guid>
+      <description>Mình nhớ mãi có lần mẹ mình ốm. Mẹ gắng dậy để ăn thật nhiều cơm.
+Mình mới hỏi: “Mẹ ốm sao mẹ ăn nhiều thế”.</description>
+    </item>
+    
+    <item>
+      <title>Trẻ Không Có Lòng Biết Ơn...</title>
+      <link>https://ichnv.com/blog/post-8/</link>
+      <pubDate>Sun, 24 Jan 2021 18:19:25 +0600</pubDate>
+      
+      <guid>https://ichnv.com/blog/post-8/</guid>
+      <description>Văn hóa truyền thống rất coi trọng việc giáo dục trong gia đình và nề nếp gia phong. Trong lịch sử, nhiều danh môn vọng tộc sở dĩ có thể bồi dưỡng ra vô số những nhân vật lẫy lừng, không thể không nhắc đến giáo dục gia đình mà nền tảng chính là lòng biết ơn!</description>
     </item>
     
   </channel>
